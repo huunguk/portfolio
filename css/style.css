@@ -1,0 +1,90 @@
+#wrap {
+  width: 100%;
+  height: 100vh;
+  background-color: black;
+}
+
+/* nav */
+#aboutme .nav_in {
+  width: 80%;
+  height: 100px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#aboutme .nav {
+  width: 100%;
+  height: 100px;
+}
+
+#aboutme .nav h3 {
+  font-size: 16px;
+  color: white;
+}
+
+#aboutme .nav ul li {
+  float: right;
+  padding-right: 100px;
+}
+
+#aboutme .nav li a {
+  color: white;
+  font-size: 16px;
+}
+
+/* main img */
+
+#aboutme .mainimg {
+  width: 100%;
+  /* background-color: aquamarine; */
+  margin-top: 100px;
+  /* margin-left: 0px; */
+  /* text-align: center; */
+}
+
+#aboutme .mainimg img {
+  margin-left: 15px;
+  position: absolute;
+}
+
+/* matin_footer _ L */
+#aboutme .footer_l {
+  margin-top: 130px;
+  position: relative;
+  text-align: center;
+}
+
+#aboutme .footer_l h3 {
+  font-size: 180px;
+  color: white;
+  margin-left: 40px;
+  font-family: "Black Han Sans", sans-serif;
+  mix-blend-mode: difference;
+  /* float:right */
+}
+
+#aboutme .footer_l p {
+  font-size: 100px;
+  margin-left: 40px;
+  color: white;
+  font-family: "Black Han Sans", sans-serif;
+  mix-blend-mode: difference;
+}
+
+/* matin_footer _ r*/
+
+#aboutme .footer_r {
+  width: 100%;
+  /* background-color:blue; */
+}
+
+#aboutme .footer_r .footer_r_in {
+  position: relative;
+  text-align: left;
+  margin: 160px 0 0 990px;
+  color: white;
+  font-size: 16px;
+  line-height: 30px;
+}
