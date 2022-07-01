@@ -7,3 +7,4 @@ document.addEventListener("scroll", () => {
   text.style.left = window.scrollY * 3 + "px";
   text2.style.right = window.scrollY * 3 + "px";
 });
+
