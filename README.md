@@ -14,7 +14,7 @@
 <br>
 
 ## 📌 Projects 
-### 1. Aesop Project
+### 1.%20Aesop Project
 ##### 개발 기간 / 참여인원 : 22.5월 ~ 7월 / 1명<br>
 ##### 기술 스택 : Html, Css, JavaScript
   
