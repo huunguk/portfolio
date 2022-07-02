@@ -18,24 +18,26 @@
 ##### 개발 기간 / 참여인원 : 22.5월 ~ 7월 / 1명<br>
 ##### 기술 스택 : Html, Css, JavaScript
   
-  프로젝트 설명 참고
+##### 프로젝트 설명 참고 : 
   <br>
 
 ### 2. SoundLook Project
-  개발 기간 / 참여인원 : 22.5월 ~ 7월 / 3명<br>
-  기술 스택 : Html, Css, JavaScript
+##### 개발 기간 / 참여인원 : 22.5월 ~ 7월 / 3명<br>
+##### 기술 스택 : Html, Css, JavaScript
   
-  프로젝트 설명 참고
+##### 프로젝트 설명 참고 : 
   <br>
 
 ### 3. Flower Project 
   개발 기간 / 참여인원 : 22.7월 / 5명<br>
   기술 스택 : Html, Css, JavaScript
   
-  프로젝트 설명 참고<br>
+##### 프로젝트 설명 참고 : 
+  <br>
   
 ### 4. PortFolio 
-  개발 기간 / 참여인원 : 22.7월 / 5명<br>
-  기술 스택 : Html, Css, JavaScript
+##### 개발 기간 / 참여인원 : 22.7월 / 5명<br>
+##### 기술 스택 : Html, Css, JavaScript
   
-  프로젝트 설명 참고<br>
+##### 프로젝트 설명 참고 : 
+  <br>
