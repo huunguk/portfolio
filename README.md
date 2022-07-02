@@ -16,16 +16,14 @@ Phone. 010-4259-1749<br>
 <br>
 
 ## 📌 Projects 
-### 1. 첫번째 프로젝트
-  제목 : Aesop project
+### 1. Aesop Project
   개발 기간 / 참여인원 : 22.5월 ~ 7월 / 1명<br>
   기술 스택 : Html, Css, JavaScript
   
   프로젝트 설명 참고
   <br>
 
-### 2. 두번째 프로젝트
-  제목 : SoundLook project
+### 2. SoundLook Project
   개발 기간 / 참여인원 : 22.5월 ~ 7월 / 3명<br>
   기술 스택 : Html, Css, JavaScript
   
@@ -33,8 +31,7 @@ Phone. 010-4259-1749<br>
   <br>
   
 
-### 3. 세번째 프로젝트
-  제목 : flower project
+### 3. Flower Project 
   개발 기간 / 참여인원 : 22.7월 / 5명<br>
   기술 스택 : Html, Css, JavaScript
   
