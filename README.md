@@ -39,5 +39,5 @@
 ##### 개발 기간 / 참여인원 : 22.7월 / 5명<br>
 ##### 기술 스택 : Html, Css, JavaScript
   
-##### 프로젝트 설명 참고 : 
+##### 프로젝트 설명 참고 : <https://huunguk.github.io/portfolio/>
   <br>
