@@ -3,6 +3,7 @@
 진형욱 포토폴리오
 
 # 📌 Intro
+![jinhyeonguk](https://user-images.githubusercontent.com/100752008/177001479-896920c6-8534-4b59-aa04-0f54f29ae473.jpg)
 
 <br>
 
