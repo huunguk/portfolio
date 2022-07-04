@@ -14,8 +14,8 @@
 <br>
 
 ## 📌 Projects 
-### <span style="color:yellow">1. Aesop Project</span>
-##### 개발 기간 / 참여인원 : 22.5월 ~ 7월 / 1명<br>
+### 1. Aesop Project
+##### <span style="color:yellow">개발 기간</span> / 참여인원 : 22.5월 ~ 7월 / 1명<br>
 ##### 기술 스택 : Html, Css, JavaScript
   
 ##### 프로젝트 설명 참고 : <https://github.com/huunguk/AesopProject>
