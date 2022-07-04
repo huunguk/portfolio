@@ -1,7 +1,7 @@
 ## 📌 portfolio
 
 ##### 프론트앤드 개발자 진형욱 포토폴리오
-<img src="https://user-images.githubusercontent.com/100752008/177001479-896920c6-8534-4b59-aa04-0f54f29ae473.jpg" width="600" height="350">
+<img src="https://user-images.githubusercontent.com/100752008/177001479-896920c6-8534-4b59-aa04-0f54f29ae473.jpg" width="500" height="350">
 
 <br>
 
