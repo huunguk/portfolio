@@ -3,9 +3,7 @@
 
 <br>
 
-### 📲 Contact
-<br>
-
+## 📲 Contact
 ### GitHub : <https://github.com/huunguk> <br>
 ### Blog : <https://jinhyeounguk.tistory.com> <br>
 ### Email : huunguk@gmail.com <br>
@@ -13,8 +11,7 @@
 
 <br>
 
-### 📌 Projects 
-<br>
+## 📌 Projects 
 
 ## 1️⃣ Aesop Project
 #### 개발 기간 / 참여인원 : 22.5월 ~ 7월 / 1명<br>
