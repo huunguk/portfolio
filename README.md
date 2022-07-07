@@ -1,9 +1,9 @@
-## ⭐ _프론트앤드 개발자 진형욱 포토폴리오
+## ⭐ _프론트앤드 개발자 진형욱 포토폴리오_
 <img src="https://user-images.githubusercontent.com/100752008/177001479-896920c6-8534-4b59-aa04-0f54f29ae473.jpg" width=600 height=400>
 
 <br>
 
-## 📲 _Contact
+## 📲 _Contact_
 ### GitHub : <https://github.com/huunguk> <br>
 ### Blog : <https://jinhyeounguk.tistory.com> <br>
 ### Email : huunguk@gmail.com <br>
@@ -11,7 +11,7 @@
 
 <br>
 
-## 📌 _Projects 
+## 📌 _Projects_ 
 
 ## 1️⃣ Aesop Project
 #### 개발 기간 / 참여인원 : 22.5월 ~ 7월 / 1명<br>
