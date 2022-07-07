@@ -32,7 +32,7 @@
 
 ## 3️⃣ Flower Project 
 #### Develop Period : 22. 07. 01 ~ <br>
-#### Collaborator : 5명<br>
+#### Collaborator : 5<br>
 #### Use Stack : <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badg=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badg=flat-square&logo=Html5&logoColor=white"/> <img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badg=flat-square&logo=Css3&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badg=flat-square&logo=Javascript&logoColor=white"/>
   
 #### Go to project : 
