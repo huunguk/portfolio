@@ -4,18 +4,13 @@
 <br>
 
 ## 📲 _Contact_
- <br>
 ### GitHub : <https://github.com/huunguk> <br>
 ### Blog : <https://jinhyeounguk.tistory.com> <br>
 ### Email : huunguk@gmail.com <br>
 ### Phone : 010-4259-1749 <br>
 
 <br>
-<br>
-
-
 ## 📌 _Projects_ 
- <br>
 ## 1️⃣ Aesop Project
 #### 개발 기간 / 참여인원 : 22.5월 ~ 7월 / 1명<br>
 #### 기술 스택 : <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badg=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badg=flat-square&logo=Html5&logoColor=white"/> <img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badg=flat-square&logo=Css3&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badg=flat-square&logo=Javascript&logoColor=white"/>
