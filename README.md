@@ -1,4 +1,4 @@
-## ⭐ _Front-end developer Jin Hyeong Uk Portfolio_
+## ⭐ _Front-end developer Jin Hyeong Uk Portfolio_ ⭐
 <img src="https://user-images.githubusercontent.com/100752008/177001479-896920c6-8534-4b59-aa04-0f54f29ae473.jpg" width=600 height=350>
 
 <br>
