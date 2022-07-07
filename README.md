@@ -9,6 +9,7 @@
 ### Phone : 010-4259-1749<br>
 
 <br>
+
 ## 📌 Projects 
 ### 1️⃣ Aesop Project
 #### 개발 기간 / 참여인원 : 22.5월 ~ 7월 / 1명<br>
