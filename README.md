@@ -15,7 +15,7 @@
 
 ## 1️⃣ Aesop Project
 #### 개발 기간 / 참여인원 : 22.5월 ~ 7월 / 1명<br>
-#### 기술 스택 : Html, Css, JavaScript
+#### 기술 스택 : <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badg=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badg=flat-square&logo=Html5&logoColor=white"/> <img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badg=flat-square&logo=Css3&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badg=flat-square&logo=Javascript&logoColor=white"/>
   
 #### 프로젝트 바로가기 : [Aesop Project](https://huunguk.github.io/AesopProject/)
 #### 프로젝트 설명 참고 : <https://github.com/huunguk/AesopProject>
@@ -23,7 +23,7 @@
 
 ## 2️⃣ SoundLook Project
 #### 개발 기간 / 참여인원 : 22.5월 ~ 7월 / 3명<br>
-#### 기술 스택 : Html, Css, JavaScript
+#### 기술 스택 : <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badg=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badg=flat-square&logo=Html5&logoColor=white"/> <img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badg=flat-square&logo=Css3&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badg=flat-square&logo=Javascript&logoColor=white"/>
   
 #### 프로젝트 바로가기 : [SoundLook Project](https://huunguk.github.io/SoundLook/)
 #### 프로젝트 설명 참고 : <https://github.com/huunguk/SoundLook>
@@ -31,7 +31,7 @@
 
 ## 3️⃣ Flower Project 
 #### 개발 기간 / 참여인원 : 22.7월 / 5명<br>
-#### 기술 스택 : Html, Css, JavaScript
+#### 기술 스택 : <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badg=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badg=flat-square&logo=Html5&logoColor=white"/> <img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badg=flat-square&logo=Css3&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badg=flat-square&logo=Javascript&logoColor=white"/>
   
 #### 프로젝트 바로가기 : 
 #### 프로젝트 설명 참고 : <https://github.com/taeyeess/flowerProject>
@@ -39,7 +39,7 @@
   
 ## 4️⃣ PortFolio 
 #### 개발 기간 / 참여인원 : 22.7월 / 1명<br>
-#### 기술 스택 : Html, Css, JavaScript
+#### 기술 스택 : <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badg=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badg=flat-square&logo=Html5&logoColor=white"/> <img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badg=flat-square&logo=Css3&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badg=flat-square&logo=Javascript&logoColor=white"/>
   
 #### 프로젝트 바로가기 : [JHU's Portfolio](https://huunguk.github.io/portfolio/)
 #### 프로젝트 설명 참고 : <https://github.com/huunguk/portfolio>
