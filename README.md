@@ -5,7 +5,7 @@
 
 ## 📲 _Contact_
 #### GitHub : <https://github.com/huunguk> <br>
-#### Blog : <https://jinhyeounguk.tistory.com> <br>
+#### Blog : <https://velog.io/@huunguk> <br>
 #### Email : huunguk@gmail.com <br>
 #### Phone : 010-4259-1749 <br>
 
